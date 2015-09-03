@@ -1,7 +1,34 @@
 ---
 layout: post
-title: "First Post"
+title: "Blade Runner Urbanism"
 date: 2015-09-03
 ---
 
-Placeholder
+On cities and industry, the leftovers of the machine age, and the dark alley.
+I’ve wanted to put together something on the blade runner reality Instagram/blade runner urbanism, and to capture what was behind the aesthetic of the apocalyptic vision of 1980’s art.  Mostly, I want to compare what I see as a major difference between new urbanism and the old, dark, gothic urbanism.  
+
+Before I can compare the two, it’s worth briefly illuminating what exactly I’m talking about.  New Urbanism, the tale goes, was borne of DPZ’s vision of an older urbanism.  Jeff Speck illustrates it well in Suburban Nation.  As does former Milwaukee Mayor and former CNU leader Michael Nyquist.  It’s the way people built cities on a human, pedestrian scale.  The hallmarks are promoting mixed use structures (almost always residences above a first floor of retail or offices), a moderately dense urban form (sidewalks, alleys, parks, structures 2-6 stories in height), and the use of a consistently “old” architectural style (porches, windows, etc).
+
+In new urbanist cities, renderings, and plans, the approach is sunny and possibly a bit nostalgic.  There is an implicit endorsement of a particular cultural approach to style and the arrangement of space.  Styles can be adapted regionally, but the entire feel can be a bit homogenous and clean to the point of sanitized boredom.  
+
+On the other hand, there has been another strain of urbanism that never really left American cities.  Despite attempts to destroy it in the urban renewal period, we still have active examples of what I would call the “High Gothic” of American urbanism.  This is the city’s dark side.  We saw it stylized in “true crime” fiction and later film noir.  This is the city of Batman; the city of the Warriors and of the Wire.  This is the city that feels ominous, dark, where alleyways meant crime, and where secret passageways, basements, and loading docks give way.
+
+While much of the art around this period tended to symbolize crime, what this era really symbolized was the country’s mass urbanization before cities were re-made for the automobile.  In this sense, it’s a distant cousin to the pedestrian aims of new urbanism.  It’s a period marked by rapid increases in technology and a huge demand for inexpensive industrial labor brought about by political unrest in Europe.  
+
+I think this is what Blade Runner captured.  While using the archetype of the Film Noir detective in the 1940’s, Blade Runner wasn’t really about crime per se.  Rather, it was about the spectre of technology, of artificial intelligence slipping beyond human control, and the blurred lines between machine and animal.  Yet the setting is crucial to communicating these meanings.  The sets were dark, rainy, and dense.  Lights and advertising pierced the shadows.  The high temple above the city felt like the hulking structures of Art Deco, run by the high priests of commerce just like 30 Rock or the Chrysler Building.
+
+The stories of “true crime” fiction which gave rise to Noir were reflections on people’s fears and difficulties in coping with a move to the city.  This was a major event for millions of people.  The immigrant story in the U.S. produced some of the most dense neighborhoods in American history.  Even within each ethnically segregated neighborhood were individual buildings which claimed a distinct population from a village in Italy or Ireland.  The lurid stories of good plans gone wrong, dead-end escapes, and the shadow of organized crime filled pages as a kind of social fear about the city.  Crossing into other neighborhoods was taboo, and the fear that the streets were filled with crime and chaos as a matter of course was something directly aimed at middle class readers who would keep the pages turning.
+
+This image, of course, was overblown, and there was never crime all the time.  However, this aesthetic, shaped by social fears and brought on upon by major shifts in migration and society, gave rise to the idea that the city is a dark place, something ominous and shifting, something to be feared.  It was a mysterious labyrinth, where a good person could get sucked in and never escape.
+
+We see this idea apply to other cities at different times as well.  The films Pepe le Moko and the Battle of Algiers offer two very different views of the Casbah area of Algiers.  The Casbah is a dense, medieval area of the city of Algiers built into the side of a hill.  It is defined by steep, narrow, and alley like streets, which twist and curve on the contours of the hill.  Buildings line against each other, and rooftops step up and down.
+
+In the depiction of Pepe le Moko, it is a confusing, difficult to navigate area, and the French gangster, Pepe, is able to continuously outsmart the authorities looking for him by expertly navigating the area by passing through hidden passages, secret alleys, and jumping from roof top to roof top.  The same use of this city is shown in the Battle of Algiers, where those local people who oppose French military occupation are able to better navigate the complexities of the area as a way to outsmart and outmaneuver the authorities.
+
+Behind all of these depictions of the “dense” city—Blade Runner’s Neo-Los Angeles, True Crime’s New York, and Pepe le Moko’s Algeria—is a sense that the city harbors crime, that it protects a criminal element, and that it is a dangerous and complex spider web to the outside person.  It is a place to be feared, a place for “upstanding” people to avoid.  
+
+For all of the futuristic visions of Blade Runner, what it really showed us was a view of the past.  Urban centers in America are changing.  They are places of targeted revitalization which host condos and tech start ups.  Modern Downtowns likely owe their recent success, in part, to a narrative pivot.  They are no longer described as places of crime and poverty.  Instead, they are places of youth, money, and possibility.  They are marketed as centers of innovation, places where the newest ideas can gain the critical mass of inspiration and capital funding to “disrupt” the world.  They are no longer places to be feared.
+
+Instead, our social fears of America cities might shift outward.  Rural areas might become places we associate with a kind of dark mystery, outside the safe quarters of the city, places where drugs are smuggled and economic development has failed.  Or, we might even see these fears move farther in, towards the neglected suburbs which could be ringed by abandoned houses, overgrown weeds, and a kind of wilderness in the streets.  
+
+And the high gothic of urbanism—the collusion of steam filled alleys, double breasted bosses, the unstoppable roar of industry—will fade.  The darkness we collectively fear will disperse outwards, and the urban neighborhoods of new urbanism will be our new white picket fence, a place where the sidewalks begin to keep the darkness at bay.
